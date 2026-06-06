@@ -41,7 +41,7 @@ The system provides:
 
 ## Project Images
 
-(Add project images here)
+
 
 ## Future Improvements
 

@@ -55,3 +55,19 @@ The system provides:
 
 Chirag Chandan
 B.Tech Electrical and Computer Engineering
+
+
+## Project Demonstration
+
+### Hardware Setup
+![Hardware](SEM_Project_Image.jpeg)
+
+### Circuit Diagram
+![Circuit](SEM_Circuit_Diagram.jpeg)
+
+### Dashboard
+![Dashboard](blynk_dashboard.jpeg)
+![Dashboard](blynk_graph.jpeg)
+![Dashboard](blynk_monthly_report.jpeg)
+![Dashboard](blynk_notification_alert.jpeg)
+

@@ -49,6 +49,7 @@ The system provides:
 - Three Phase Monitoring
 - Cloud Database Storage
 - Web Dashboard
+- Load Forecasting
 
 ## Author
 

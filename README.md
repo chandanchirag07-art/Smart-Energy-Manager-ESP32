@@ -41,7 +41,7 @@ The system provides:
 
 ## Project Images
 
-![Smart Energy Manager](project.jpeg)
+![Smart Energy Manager]( SEM Project Image.jpeg)
 
 ## Future Improvements
 
